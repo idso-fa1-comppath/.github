@@ -1,1 +1,1 @@
-## Welcome to IDSO-FA1-CompPath 👋
+## Welcome to IDSO-FA1-Pathology 👋
